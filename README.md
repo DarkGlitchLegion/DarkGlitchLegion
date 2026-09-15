@@ -18,7 +18,7 @@
 │                                                                                                  │
 │  USERNAME     : DARKGLITCH                                                                       │
 │  PLATFORM     : Linux                                                                            │
-│  ROLE         : Android Developer • Backend Engineer                                             │
+│  ROLE         : Android Developer • Backend Engineer • Penetration Tester                        │
 │  PRIMARY FOCUS: Security Research • Networking • System Engineering                              │
 │  STATUS       : Always Learning • Always Building                                                │
 │                                                                                                  │
@@ -40,7 +40,6 @@
 │  • Flask                                                                                 │
 │  • Django                                                                                │
 │  • REST API Development                                                                  │
-│                                                                                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 
@@ -62,7 +61,6 @@
 │  [01] Secure Android Development                                                 │
 │  [02] Backend Architecture & API Security                                        │
 │  [03] Authorized Penetration Testing                                             │
-│  [04] Linux System Internals                                                     │
 │  [05] Network Analysis & Security                                                │
 │  [06] Automation Tools for Security Research                                     │
 │                                                                                  │
@@ -72,10 +70,8 @@
 ┌──────────────────────WORK PHILOSOPHY───────────────────────────────────┐
 │                                                                                  │
 │   "Think like a hacker. Build like an engineer."                                 │
-│                                                                                  │
-│   • Understand how systems work before attempting to secure them.                │
+│   • My failure is microscopic but my potential is infinite.                      │
 │   • Build reliable software with security in mind.                               │
-│   • Research responsibly within authorized environments only.                    │
 │   • Never stop learning and improving technical skills.                          │
 │                                                                                  │
 └──────────────────────────────────────────────────────────────────────┘
