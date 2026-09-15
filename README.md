@@ -1,5 +1,4 @@
-  <div align="center">
-    
+  <div align="left">
     <img src="angel_diablo.gif" width="600" alt="Cyber Security GIF">
     
 ```text
