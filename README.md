@@ -61,8 +61,8 @@
 │  [01] Secure Android Development                                                 │
 │  [02] Backend Architecture & API Security                                        │
 │  [03] Authorized Penetration Testing                                             │
-│  [05] Network Analysis & Security                                                │
-│  [06] Automation Tools for Security Research                                     │
+│  [04] Network Analysis & Security                                                │
+│  [05] Automation Tools for Security Research                                     │
 │                                                                                  │
 └──────────────────────────────────────────────────────────────────────┘
 
